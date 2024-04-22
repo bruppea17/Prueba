@@ -1,0 +1,7 @@
+Nombre: Bruno Emmanuel
+Apellido: Peña
+Altura: 1.70
+Edad: 16
+Peso: 60kg
+ColorPreferido: Negro
+D.N.I: 47886256
